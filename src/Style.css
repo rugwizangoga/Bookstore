@@ -1,0 +1,24 @@
+* {
+  text-decoration: none;
+  list-style: none;
+}
+
+.navigation {
+  display: flex;
+  gap: 40px;
+  align-items: baseline;
+  width: 87%;
+  margin: auto;
+}
+
+.navbar {
+  display: flex;
+  gap: 25px;
+}
+
+button {
+  border: none;
+  padding: 8px 15px;
+  font-size: 14px;
+  border-radius: 30px;
+}
