@@ -24,7 +24,6 @@ button {
   font-size: 14px;
   border-radius: 10px;
   color: #fff;
-  height: fit-content;
   width: fit-content;
 }
 
@@ -33,7 +32,6 @@ button {
   font-size: 14px;
   border-radius: 10px;
   color: #fff;
-  height: fit-content;
   width: 80px;
 }
 
