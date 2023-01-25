@@ -6,7 +6,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Deployment](#triangular_flag_on_post-deployment)
@@ -21,7 +20,7 @@
 # 📖 [ Bookstore ] <a name="about-project"></a>
 
 
-Bookstore is a simple React web app .
+Bookstore is a simple React web app that displays a list of books and allows you to add and remove books from that list.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -43,17 +42,11 @@ Bookstore is a simple React web app .
 ### Key Features <a name="key-features"></a>
 
 
-- **[ Book list ]**
-- **[ Add book ]**
+- **[ Display a list of books ]**
+- **[ Add a book ]**
+- **[ Remove a selected book ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](https://rugwizangoga.github.io/Leaderboard-app/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
