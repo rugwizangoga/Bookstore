@@ -6,11 +6,11 @@ const Header = () => (
   <nav>
     <div className="navigation">
       <h1>
-        <Link to="/"> Bookstore CMS </Link>
+        <Link className="author" to="/"> Bookstore CMS </Link>
       </h1>
       <ul className="navbar">
-        <li><Link to="/">BOOKS</Link></li>
-        <li><Link to="/categories">CATEGORIES</Link></li>
+        <li><Link className="author" to="/">BOOKS</Link></li>
+        <li><Link className="author" to="/categories">CATEGORIES</Link></li>
       </ul>
     </div>
   </nav>

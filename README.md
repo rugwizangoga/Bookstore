@@ -18,10 +18,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Math-Magicians ] <a name="about-project"></a>
+# 📖 [ Bookstore ] <a name="about-project"></a>
 
 
-Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations using a calculator and read a random math-related quote.
+Bookstore is a simple React web app .
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -43,8 +43,8 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 ### Key Features <a name="key-features"></a>
 
 
-- **[ Simple calculator ]**
-- **[ Math quotes ]**
+- **[ Book list ]**
+- **[ Add book ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,9 +61,9 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-$ git clone https://github.com/rugwizangoga/Math-Magicians.git
+$ git clone https://github.com/rugwizangoga/Bookstore.git
 
-$ cd Math-Magicians
+$ cd Bookstore
 
 $ npm install
 
