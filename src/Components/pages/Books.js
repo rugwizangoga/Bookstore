@@ -21,11 +21,11 @@ const booklist = [
 
 const Books = () => (
   <>
-    <div>
+    <ul>
       {
         booklist.map((book) => (<Book key={book.id} title={book.title} author={book.author} />))
       }
-    </div>
+    </ul>
     <hr />
     <h2 className="navigation">
       ADD NEW BOOK

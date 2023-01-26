@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Button from './button';
 
 const Book = ({ title, author }) => (
-  <div className="bookcontainer">
+  <li className="bookcontainer">
     <div className="book">
       <div className="details">
         <h3>{title}</h3>
@@ -12,7 +12,7 @@ const Book = ({ title, author }) => (
       <Button color="red" text="Remove" />
     </div>
     <Button color="#0290ff" text="UPDATE PROGRESS" />
-  </div>
+  </li>
 );
 
 Book.propTypes = {
