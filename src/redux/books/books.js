@@ -23,22 +23,3 @@ export default function bookstoreReducer(state = initialState, action) {
       return state;
   }
 }
-
-// import { createSlice } from '@reduxjs/toolkit';
-
-// const booksSlice = createSlice({
-//   name: 'books',
-//   initialState: [],
-//   reducers: {
-//     addBook: (state, action) => {
-//       state.push(action.payload);
-//       // console.log(state);
-//     },
-//     removeBook: (state, action) => {
-//       state.filter((book) => book.id !== action.payload);
-//       // console.log(state);
-//     },
-//   },
-// });
-
-// export default booksSlice;
